@@ -13,6 +13,7 @@
   <licenses>
     <license>
       <name>MIT</name>
+      <url>https://spdx.org/licenses/MIT.html</url>
     </license>
   </licenses>
   <organization>
@@ -90,7 +91,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.0.0</version>
         <configuration>
-          <mainClass>is.hi.hbv202g.ass9.composite.Main</mainClass>
+          <mainClass>is.hi.hbv202g.ass9.CompositeMain</mainClass>
         </configuration>
       </plugin>
     </plugins>

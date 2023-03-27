@@ -23,5 +23,4 @@ public class MultiplyComposite extends MathExpressionComposite implements MathEx
         }
         return sum;
     }
-
 }

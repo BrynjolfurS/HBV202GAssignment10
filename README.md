@@ -23,6 +23,10 @@ Maven:
 - `mvn compile` compiles all implementation classes.
 - `mvn test` runs all test cases (i.e. all classes with a name that either starts with `Test` or ends with `Test`, `Tests`, or `TestCase`).
 
+## Running
+
+- `mvn exec:java` to run the projects main class
+
 ## License
 
 MIT License
