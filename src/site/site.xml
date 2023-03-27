@@ -1,0 +1,15 @@
+<project>
+    <body>
+        <menu name ="Overview">
+            <item name="Documentation" href="documentation.html" />
+            <item name="Dependencies" href="dependencies.html" />
+            <item name="Dependency-info" href="dependency-info.html" />
+            <item name="Licenses" href="licenses.html" />
+            <item name="Plugins" href="plugins.html" />
+            <item name="Plugin management" href="plugin-management.html" />
+            <item name="Project info" href="project-info.html" />
+            <item name="Summary" href="summary.html" />
+            <item name="Readme" href="README.html" />
+        </menu>
+    </body>
+</project>

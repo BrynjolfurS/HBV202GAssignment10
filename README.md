@@ -18,15 +18,17 @@ Both the implementation and the tests are in Java package `is.hi.hbv202g.ass9`, 
 
 ## Building
 
-Maven:
+#### Maven:
 
 - `mvn compile` compiles all implementation classes.
 - `mvn test` runs all test cases (i.e. all classes with a name that either starts with `Test` or ends with `Test`, `Tests`, or `TestCase`).
 
 ## Running
 
+#### Maven:
+
 - `mvn exec:java` to run the projects main class
 
 ## License
 
-MIT License
+[MIT License](https://spdx.org/licenses/MIT)
